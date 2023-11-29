@@ -6,7 +6,7 @@ all natives in lua
 2. just don't share the script to other script/resource. to make it optimized.
 3. to use the native, here are some methods that you can do:
 
-### how to initate the natives?
+### how to initiate the natives?
 just add these to top of your script
 
 you can do for a single native that you will be used in 1 file
